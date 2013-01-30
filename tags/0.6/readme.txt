@@ -1,5 +1,5 @@
 === awe.sm for WordPress ===
-Contributors: snowballfactory, Direction1Media, seldo, jeremiahlee
+Contributors: snowballfactory, joshvickers, seldo, jeremiahlee
 Tags: sharing, analytics, social media
 Requires at least: 3.5
 Tested up to: 3.5
