@@ -7,11 +7,15 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-[awe.sm](http://totally.awe.sm/) provides sharing analytics. This plugin provides awe.sm-powered buttons for Facebook, Twitter, Tumblr, LinkedIn, Google+, Pinterest, and email. It requires an awe.sm subscription for stats.
+awe.sm provides sharing analytics for Facebook, Twitter, Tumblr, LinkedIn, Google+, Pinterest, and email.
 
 == Description ==
 
 [awe.sm](http://totally.awe.sm/) provides sharing analytics. This plugin provides awe.sm-powered buttons for Facebook, Twitter, Tumblr, LinkedIn, Google+, Pinterest, and email. It requires an awe.sm subscription for stats.
+
+=== Contributing code ===
+
+The development source code for this plugin is available on [awe.sm's GitHub account](https://github.com/awesm/wordpress-plugin). [Pull Requests](https://github.com/awesm/wordpress-plugin/pulls) and code discussion welcome.
 
 == Installation ==
 
