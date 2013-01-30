@@ -16,6 +16,9 @@ How to release
 
 References
 ----------
+How to use SVN because no one remembers that shit
+http://wiki.greenstone.org/wiki/index.php/Useful_SVN_Commands
+
 FAQ about the WordPress Plugins Directory
 http://wordpress.org/extend/plugins/about/faq/
 
