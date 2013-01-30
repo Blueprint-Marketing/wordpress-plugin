@@ -13,7 +13,7 @@ awe.sm provides sharing analytics for Facebook, Twitter, Tumblr, LinkedIn, Googl
 
 [awe.sm](http://totally.awe.sm/) provides sharing analytics. This plugin provides awe.sm-powered buttons for Facebook, Twitter, Tumblr, LinkedIn, Google+, Pinterest, and email. It requires an awe.sm subscription for stats.
 
-=== Contributing code ===
+**Contributing code**
 
 The development source code for this plugin is available on [awe.sm's GitHub account](https://github.com/awesm/wordpress-plugin). [Pull Requests](https://github.com/awesm/wordpress-plugin/pulls) and code discussion welcome.
 
