@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/660994/awesm/trunk
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/660994/awesm/trunk/license.txt
+END
+libcurlemu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/660994/awesm/trunk/libcurlemu.inc.php
+END
+libcurlnative.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/660994/awesm/trunk/libcurlnative.inc.php
+END
+awesm.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/660994/awesm/trunk/awesm.php
+END
+class_HTTPRetriever.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/660994/awesm/trunk/class_HTTPRetriever.php
+END
+awesm-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/660994/awesm/trunk/awesm-options.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/661030/awesm/trunk/readme.txt
+END
+awesm-button-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/660994/awesm/trunk/awesm-button-html.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/660994/awesm/trunk/index.php
+END
+libcurlexternal.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/660994/awesm/trunk/libcurlexternal.inc.php
+END
